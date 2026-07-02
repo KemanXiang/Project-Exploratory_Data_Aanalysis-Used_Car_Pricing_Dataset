@@ -1,0 +1,2 @@
+# Project-Exploratory_Data_Aanalysis-Used_Car_Pricing_Dataset
+Objectives After completing this lab you will be able to:  Explore features or characteristics to predict price of car Analyze patterns and run descriptive statistical analysis Group data based on identified parameters and create pivot tables Identify the effect of independent attributes on price of cars
